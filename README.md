@@ -8,7 +8,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 git clone https://github.com/Onurisk7/kodluyoruzilkrepo
 ```
 
-#usage
+## usage
 Projeyi açmak cloneladıktan sonra Visual Studio Code programını açınız.
 
 Linuz İçin: 
@@ -17,10 +17,10 @@ Linuz İçin:
 cd kodluyoruzilkrepo
 code .
 ```
-#Contributing
+## Contributing
 
 Pull requsetler kabul edilir. Büyük değişiklikler için,lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-#License
+## License
 
 [MIT](https://www.patika.dev/tr)
